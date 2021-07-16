@@ -1,10 +1,13 @@
 # Svetlana Chenchikova  
-##### Junior Front-end Developer
+#### Junior Front-end Developer
 ___
 #### PERSONAL INFORMATION  
 __________
 Location: Moscow, Russia  
 E-mail: s.chenchikova@gmail.com  
+Telegram: [Svetlana_Chenchikova](https://t.me/Svetlana_Chenchikova)  
+GitHub: [svetache](https://github.com/svetache)
+
 
 #### OBJECTIVE
 _____
@@ -45,20 +48,20 @@ ___
 2013-2017, Bachelor
 #### CERTIFICATES/COURSES
 ___
-**RS School**
+**RS School**  
 «JavaScript/Front-end» course  
 July 2021 - Present 
 
-**learn.javascript.ru**
+**learn.javascript.ru**  
 “JavaScript/DOM/Interfaces” course  
 June - July 2021
 
-**Code Basics**
-“HTML for beginners” course
+**Code Basics**  
+“HTML for beginners” course  
 “CSS for beginners” course
 
 
-#### SKILLS
+#### SKILLS  
 ___
 - HTML
 - CSS
@@ -67,7 +70,8 @@ ___
 - Figma
 - POSTMAN/Insomnia
 - SQL (basic)  
-#### LANGUAGES
+
+#### LANGUAGES  
 _____
 - Russian (Native)
 - English (C1 - Advanced). Excellent verbal and written communication skills.
