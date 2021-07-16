@@ -1,17 +1,17 @@
-## Svetlana Chenchikova  
+# Svetlana Chenchikova  
 ##### Junior Front-end Developer
 ___
-##### PERSONAL INFORMATION  
+#### PERSONAL INFORMATION  
 __________
 Location: Moscow, Russia  
 E-mail: s.chenchikova@gmail.com  
 
-##### OBJECTIVE
+#### OBJECTIVE
 _____
 **1-3 sentences** 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-##### CODE EXAMPLE
+#### CODE EXAMPLE
 ___
 Username validation:
 
@@ -38,19 +38,19 @@ function sayHello() {
   }
 }
 ```
-##### EDUCATION
+#### EDUCATION
 ___
 **Moscow University for Industry and Finance “Synergy”**  
 "Linguistics, Theory and Practice of Intercultural Communications"  
 2013-2017, Bachelor
-##### CERTIFICATES/COURSES
+#### CERTIFICATES/COURSES
 ___
 **RS School**
-«JavaScript/Front-end» course
+«JavaScript/Front-end» course  
 July 2021 - Present 
 
 **learn.javascript.ru**
-“JavaScript/DOM/Interfaces” course
+“JavaScript/DOM/Interfaces” course  
 June - July 2021
 
 **Code Basics**
@@ -58,7 +58,7 @@ June - July 2021
 “CSS for beginners” course
 
 
-##### SKILLS
+#### SKILLS
 ___
 - HTML
 - CSS
@@ -66,8 +66,8 @@ ___
 - GIT
 - Figma
 - POSTMAN/Insomnia
-- SQL (basic)
-##### LANGUAGES
+- SQL (basic)  
+#### LANGUAGES
 _____
 - Russian (Native)
 - English (C1 - Advanced). Excellent verbal and written communication skills.
