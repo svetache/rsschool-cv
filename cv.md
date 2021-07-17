@@ -69,6 +69,8 @@ ___
 - GIT
 - Figma
 - POSTMAN/Insomnia
+- Understanding of RESTful API  
+- Experience with XML/JSON data formats    
 - SQL (basic)  
 
 #### LANGUAGES  
