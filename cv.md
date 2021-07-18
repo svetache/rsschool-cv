@@ -11,8 +11,9 @@ GitHub: [svetache](https://github.com/svetache)
 
 #### OBJECTIVE
 _____
-**1-3 sentences** 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creative, self-motivated RS School JS/FE student with strong technical and analytical skills, attention to detail, fluent English, and 3+ years of work experience for Russia's largest IT company seeking the role of Junior Front-end Developer. 
+
+My goal is to work with a diverse team of professionals contributing to the company’s vision and goals while having the scope to develop my skills.
 
 #### CODE EXAMPLE
 ___
