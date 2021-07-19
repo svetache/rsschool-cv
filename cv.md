@@ -15,6 +15,37 @@ Creative, self-motivated RS School JS/FE student with strong technical and anal
 
 My goal is to work with a diverse team of professionals contributing to the company’s vision and goals while having the scope to develop my skills.
 
+#### WORK EXPERIENCE  
+___  
+**Technical Support Specialist (API Support)** 
+Yandex.Market LLC   
+February 2020 - May 2021 
+
+Provided a wide range of technical support for external (B2B) & internal clients:
+
+- Thoroughly diagnosed technical problems and communicated solutions to clients 
+- Proactively resolved clients’ issues regarding the Yandex.Market API: Partner API, Content API & Affiliate API (authorization & getting the OAuth token, methods & requests, error messages, etc.)
+- Advised clients on adding Yandex.Market JavaScript widget codes/affiliate links to their websites/blogs
+- Provided recommendations to partners on “Yandex.Market for business” module for “1C-Bitrix” (setup, orders processing)
+- Provided help to clients with the Yandex.Market partner interface’s technical issues 
+- Tracked incidents progress until resolved/closed
+- Created & updated internal documentation
+- Trained and developed new employees
+
+**B2B Support Specialist**  
+Yandex.Market LLC   
+January 2018 - February 2020
+
+Provided support to external (retailers, vendors, etc.) & internal clients:
+
+- Responded to written requests (in Russian/English) appropriately and timely according to SLA 
+- Advised clients about the Yandex.Market partner interface
+- Provided help to clients with all issues regarding XML (YML) feeds (attribute requirements, indexing errors)
+- Troubleshot problems identified by external or internal clients and collaborated with various business teams to address and resolve issues identified
+- Properly classified and described clients' issues, problems/bugs for software developers
+- Wrote & updated internal knowledge base
+- Conducted training for new employees  
+  
 #### CODE EXAMPLE
 ___
 Username validation:
@@ -45,7 +76,7 @@ function sayHello() {
 #### EDUCATION
 ___
 **Moscow University for Industry and Finance “Synergy”**  
-"Linguistics, Theory and Practice of Intercultural Communications"  
+"Linguistics / Theory and Practice of Intercultural Communications"  
 2013-2017, Bachelor
 #### CERTIFICATES/COURSES
 ___
@@ -71,7 +102,8 @@ ___
 - Figma
 - POSTMAN/Insomnia
 - Understanding of RESTful API  
-- Experience with XML/JSON data formats    
+- Experience with XML/JSON data formats
+- Understanding of HTTP/HTTPS protocols    
 - SQL (basic)  
 
 #### LANGUAGES  
