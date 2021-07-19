@@ -17,7 +17,7 @@ My goal is to work with a diverse team of professionals contributing to the comp
 
 #### WORK EXPERIENCE  
 ___  
-**Technical Support Specialist (API Support)** 
+**Technical Support Specialist (API Support)**  
 Yandex.Market LLC   
 February 2020 - May 2021 
 
