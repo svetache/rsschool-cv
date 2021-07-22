@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CV Chenchikova Svetlana - Junior Front-end Developer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <main class="main_content">
+      <div class="left_column">
+        <div class="left_content">
+          <div class="profile">
+            <img src="avatar.jpg" alt="cv_avatar">
+            <h2 class="name">Svetlana Chenchikova</h2>
+            <p class="career">Junior Front-end Developer</p>
+          </div>
+          <div class="contact_info">
+            <h3 class="main_title">Personal Information</h3>
+            <ul>
+              <li>Location: Moscow</li>
+              <li>E-mail: 
+                <a href="mailto:s.chenchikova@gmail.com">s.chenchikova@gmail.com</a>
+              </li>
+              <li>Telegram: 
+                <a href="https://t.me/Svetlana_Chenchikova" target="_blank">Svetlana_Chenchikova</a>
+              </li>
+              <li>GitHub: 
+                <a href="https://github.com/svetache" target="_blank">svetache</a>
+              </li>
+            </ul>
+          </div>
+          <div class="education_section">
+            <h3 class="main_title">Education</h3>
+            <p class="left_paragraph">Moscow University for Industry and Finance “Synergy”
+              “Linguistics / Theory and Practice of Intercultural Communications”
+              2013-2017, Bachelor</p>
+          </div>
+          <div class="courses_section">
+            <h3 class="main_title">Courses/Certificates</h3>
+            <p>RS School
+              «JavaScript/Front-end» course
+              July 2021 - Present</p>
+            <p>learn.javascript.ru
+              “JavaScript/DOM/Interfaces” course
+              June - July 2021</p>
+            <p>Code Basics
+              “HTML for beginners” course
+              “CSS for beginners” course</p>
+          </div>
+          <div class="skills_section">
+            <h3 class="main_title">Skills</h3>
+            <ul>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>GIT</li>
+              <li>Figma</li>
+              <li>POSTMAN/Insomnia</li>
+              <li>Understanding of RESTful API</li>
+              <li>Experience with XML/JSON data formats</li>
+              <li>Understanding of HTTP/HTTPS protocols</li>
+              <li>SQL (basic)</li>
+            </ul>
+          </div>
+          <div class="languages_section">
+            <h3 class="main_title">Languages</h3>
+            <ul>
+              <li>Russian (Native)</li>
+              <li>English (C1 - Advanced). Excellent verbal and written communication skills.</li>
+            </ul>
+          </div>  
+        </div>
+            </div>
+        <div class="right_column">
+          <section class="objective_section">
+            <h2 class="right_title">Objective</h2>
+            <p class="right_paragraph">Creative, self-motivated RS School JS/FE student with strong technical and analytical skills, attention to detail, fluent English, and 3+ years of work experience for Russia’s largest IT company seeking the role of Junior Front-end Developer. My goal is to work with a diverse team of professionals contributing to the company’s vision and goals while having the scope to develop my skills.</p>
+          </section>
+          <section class="experience_section">
+            <h2 class="right_title">Work experience</h2>
+            <h3>Technical Support Specialist (API Support)</h3>
+            <p class="right_paragraph">
+              Yandex.Market LLC
+              February 2020 - May 2021
+              Provided a wide range of technical support for external (B2B) & internal clients:</p>
+              <ul>
+                <li>Thoroughly diagnosed technical problems and communicated solutions to clients</li>
+                <li>Proactively resolved clients’ issues regarding the Yandex.Market API: Partner API, Content API & Affiliate API (authorization & getting the OAuth token, methods & requests, error messages, etc.)</li>
+                <li>Advised clients on adding Yandex.Market JavaScript widget codes/affiliate links to their websites/blogs</li>
+                <li>Provided recommendations to partners on “Yandex.Market for business” module for “1C-Bitrix” (setup, orders processing)</li>
+                <li>Provided help to clients with the Yandex.Market partner interface’s technical issues</li>
+                <li>Tracked incidents progress until resolved/closed</li>
+                <li>Created & updated internal documentation</li>
+                <li>Trained and developed new employees</li>
+              </ul>
+            <h3>B2B Support Specialist</h3>
+            <p class="right_paragraph">
+              Yandex.Market LLC
+              January 2018 - February 2020
+              Provided support to external (retailers, vendors, etc.) & internal clients:
+            </p>
+            <ul>
+              <li>Responded to written requests (in Russian/English) appropriately and timely according to SLA</li>
+              <li>Advised clients about the Yandex.Market partner interface</li>
+              <li>Provided help to clients with all issues regarding XML (YML) feeds (attribute requirements, indexing errors)</li>
+              <li>Troubleshot problems identified by external or internal clients and collaborated with various business teams to address and resolve issues identified</li>
+              <li>Properly classified and described clients’ issues, problems/bugs for software developers</li>
+              <li>Wrote & updated internal knowledge base</li>
+              <li>Conducted training for new employees</li>
+            </ul>
+          </section>
+          <section class="code_example_section">
+            <h2 class="right_title">Code example</h2>
+            <p class="right_paragraph">Username validation:</p>
+            <pre><code>
+              function print(text) {
+              console.log(text);
+            }
+             
+             function isValid(name) {
+              if (name != "" && name != null && !name.includes(" ") && name.length >= 4) {
+                return true;
+              } else {
+                return false;
+              }
+            }
+            
+            function sayHello() {
+              let userName = prompt('Enter your username');
+              
+              if (isValid(userName)) {
+                print(`Welcome back, ${userName}!`);
+              } else {
+                print('Username is invalid');
+              }
+            }
+          </code></pre>
+          </section>
+        </div>
+    </main>
+    <footer class="footer">
+      <a href="https://github.com/svetache" class="github_link" target="_blank"><h4>GitHub</h4></a>
+      <h3 class="year">2021</h3>
+      <a href="https://rs.school/js/"
+         target="_blank">
+        <img width="100"
+             height="40"
+             src="https://rs.school/images/rs_school_js.svg"
+             alt="rs_school_logo">
+      </a>
+    </footer>
+  </div>
+</body>
+</html>
