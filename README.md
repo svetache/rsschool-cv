@@ -1,1 +1,1 @@
-https://svetache.github.io/rsschool-cv/cv
+https://svetache.github.io/rsschool-cv/
